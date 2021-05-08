@@ -4,7 +4,7 @@
 <!--
 **Gowtham-P-B/Gowtham-P-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am Gowtham P B. I am Information science undergrad at Sahyadri college of engineering and management. I am a novice developer and designer. I am a aspiring web developer and graphic designer. I am also inspired by cybersecurity, UI/ UX design etc. I am a member of Sahyadri Open-sourse Community.
+I am Gowtham P B. I am a Information science undergrad at Sahyadri college of engineering and management. I am a developer and designer. I am also interested in cybersecurity, UI/ UX design, blockchain. I am a member of Sahyadri Open-sourse Community.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...my portfolio website
