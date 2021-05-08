@@ -1,5 +1,5 @@
 ### Hello there😄👋 
-<div></div><div><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhello-gifs&psig=AOvVaw17YkeA9jS5KBsZ2COKNymO&ust=1620524181638000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiQ89P5uPACFQAAAAAdAAAAABA7" width="400px"></div>
+<div></div><div><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhello-gifs&psig=AOvVaw17YkeA9jS5KBsZ2COKNymO&ust=1620524181638000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiQ89P5uPACFQAAAAAdAAAAABA7"></div>
 
 <!--
 **Gowtham-P-B/Gowtham-P-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
