@@ -4,21 +4,11 @@
 <!--
 **Gowtham-P-B/Gowtham-P-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 I am studying Information science at Sahyadri college of engineering and management. I am an aspiring web developer and graphic designer. I am also inspired by cybersecurity, UI/ UX design, blockchain. I am a member of Sahyadri Open-sourse Community.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...my portfolio website and my blog site
-- 🌱 I’m currently learning ...web development and graphic design
-- 🤝 I’m looking to collaborate with ...other developers in the community
-- 🤔 I’m looking for help with ...web development and graphic design
-- 📫 How to reach me: ...Twitter-@Gowtham_PB
-- 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...I am interested in Astronomy and Finance as well!!!
+If I find anything interesting then I try to build it from scratch :)
+
+For any queries do feel free to reach out to me via Twitter.
 
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=radical)
 
 
-## Connect with me:
-<a href="https://twitter.com/Gowtham_PB" ><img align="left" alt="GPB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="www.linkedin.com/in/gowtham-pb"><img align="left" alt="GPB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-<br />
