@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/him
 - ⚡ Fun fact: ...I am interested in Astronomy and Finance as well!!!
 
-[![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB)](https://github.com/anuraghazra/github-readme-stats)
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=radical)
 
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/Gowtham_PB" />][twitter]
-[<img align="left" alt="Gowtham-Linkedin | LinkedIn" width="22px" src="www.linkedin.com/in/gowtham-pb" />][linkedin]
+[<img align="left" alt="GowthamPB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Gowtham_PB]
+[<img align="left" alt="GowthamPB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/gowtham-pb]
 <br />
