@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Connect with me:
-<img align="left" alt="GPB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />https://twitter.com/Gowtham_PB
-<img align="left" alt="GPB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />www.linkedin.com/in/gowtham-pb
+<a href="https://twitter.com/Gowtham_PB" ><img align="left" alt="GPB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="www.linkedin.com/in/gowtham-pb"><img align="left" alt="GPB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br />
