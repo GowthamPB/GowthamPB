@@ -3,12 +3,11 @@
 
 <!--
 **Gowtham-P-B/Gowtham-P-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am studying Information science at Sahyadri college of engineering and management. I am an aspiring web developer and graphic designer. I am also inspired by cybersecurity, UI/ UX design, blockchain. I am a member of Sahyadri Open-sourse Community.
+I am studying Information science at Sahyadri college of engineering and management.I love building cool stuff. I am an aspiring web developer and graphic designer. I am also inspired by cybersecurity, UI/ UX design, blockchain. I am a member of Sahyadri Open-sourse Community.
 
 If I find anything interesting then I try to build it from scratch :)
 
-For any queries do feel free to reach out to me via Twitter.
-
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=radical)
 
+For any queries do feel free to reach out to me via Twitter :)
 
