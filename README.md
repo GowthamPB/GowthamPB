@@ -8,7 +8,7 @@ I am studying Information science at Sahyadri college of engineering and managem
 I love building cool stuff.
 If I find anything interesting then I try to build it from scratch :)
 
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=radical)
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=majestic)
 
 Passionate about tech,astronomy and finance :)
 
