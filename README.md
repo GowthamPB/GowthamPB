@@ -3,7 +3,7 @@
 
 <!--
 **Gowtham-P-B/Gowtham-P-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am studying Information science at [Sahyadri college of engineering and management](https://sahyadri.edu.in/). I am a web developer and graphic designer. I am a member of [Sahyadri Open-source Community](https://sosc.org.in) and Eddie-hub.
+I am studying Information science at [Sahyadri college of engineering and management](https://sahyadri.edu.in/). I am a web developer and graphic designer. I am a member of communities like [Sahyadri Open-source Community](https://sosc.org.in) and EddieHub.
 
 I love building cool stuff.
 If I find anything interesting then I will definetly try to build it from scratch :)
