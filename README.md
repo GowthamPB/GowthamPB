@@ -10,7 +10,7 @@ If I find anything interesting then I will definetly try to build it from scratc
 
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
 
-Passionate about tech,astronomy and finance :)
+I am passionate about tech,astronomy and finance :)
 
 For any queries do feel free to reach out to me via Twitter :)
 
