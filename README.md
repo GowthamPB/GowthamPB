@@ -3,14 +3,13 @@
 
 <!--
 **Gowtham-P-B/Gowtham-P-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am studying Information science at [Sahyadri college of engineering and management](https://sahyadri.edu.in/). I am a web developer and graphic designer. I am a member of communities like [Sahyadri Open-source Community](https://sosc.org.in) and EddieHub.
+I am studying Information science at [Sahyadri college of engineering and management](https://sahyadri.edu.in/). I am a web developer. I am a member of communities like [Sahyadri Open-source Community](https://sosc.org.in) and EddieHub.
 
-I love building cool stuff.
-If I find anything interesting then I will definetly try to build it from scratch :)
+I love building cool stuff for the internet. So always on the look out for new project ideas.
 
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
 
-I am passionate about tech,astronomy and finance :)
+I am passionate about tech,astronomy and finance as well :)
 
 For any queries do feel free to reach out to me via Twitter :)
 
