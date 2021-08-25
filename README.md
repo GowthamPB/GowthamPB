@@ -1,4 +1,4 @@
-### Well...hello there😄👋 my name's Gowtham P B                                                     ![](https://komarev.com/ghpvc/?username=GowthamPB&color=orange)
+### Well...hello there😄👋 my name's Gowtham P B                                                    
 <div></div><div><img src="https://www.bing.com/th/id/OGC.3ccff8c4b2443d93811eac9b2fd56f11?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fzjMzwz24dr368%2fgiphy.gif&ehk=PTTrBX3t6IJUwwSv2s4KJfji%2ff3a4Qrtmxyh3O7oxkY%3d" width="400px"></div>
 
 <!--
@@ -7,12 +7,21 @@ I am studying Information science at [Sahyadri college of engineering and manage
 
 I love building cool stuff for the internet. So always on the look out for new project ideas.I am passionate about tech,astronomy and finance as well :)
 
+<br>
+## &#x1f4c8; My GitHub Stats
+ 
+ ![](https://komarev.com/ghpvc/?username=GowthamPB&color=orange)
+ 
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
 
 ## 📝 My blog Posts
 
-For any queries do feel free to reach out to me via Twitter :)
+Blogs coming sooooooon :)
+
+## You can also find me on:
+<br>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Gowtham_PB)
+<br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gowtham-pb)
 
 
