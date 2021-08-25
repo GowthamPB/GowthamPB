@@ -1,4 +1,4 @@
-### Well...hello there😄👋 my name's Gowtham P B
+### Well...hello there😄👋 my name's Gowtham P B                                                     ![](https://komarev.com/ghpvc/?username=GowthamPB&color=orange)
 <div></div><div><img src="https://www.bing.com/th/id/OGC.3ccff8c4b2443d93811eac9b2fd56f11?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fzjMzwz24dr368%2fgiphy.gif&ehk=PTTrBX3t6IJUwwSv2s4KJfji%2ff3a4Qrtmxyh3O7oxkY%3d" width="400px"></div>
 
 <!--
@@ -14,15 +14,5 @@ I love building cool stuff for the internet. So always on the look out for new p
 For any queries do feel free to reach out to me via Twitter :)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Gowtham_PB)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gowtham-pb)
-![](https://komarev.com/ghpvc/?username=GowthamPB&color=orange)
 
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
 
