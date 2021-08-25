@@ -8,6 +8,7 @@ I am studying Information science at [Sahyadri college of engineering and manage
 I love building cool stuff for the internet. So always on the look out for new project ideas.I am passionate about tech,astronomy and finance as well :)
 
 <br>
+
 ## My GitHub Stats
 
 <br>
@@ -16,13 +17,11 @@ I love building cool stuff for the internet. So always on the look out for new p
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
 
 ## 📝 My blog Posts
-<br>
+
 Blogs coming sooooooon :)
 
 ## You can also find me on:
-
 <br>
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Gowtham_PB)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gowtham-pb)
 
