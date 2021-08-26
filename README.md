@@ -15,7 +15,7 @@ I love building cool stuff for the internet. So always on the look out for new p
  
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 📝 My blog Posts
 
