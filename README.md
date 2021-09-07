@@ -23,7 +23,7 @@ I love building cool stuff for the internet. So always on the look out for new p
 
 Blogs coming sooooooon :)
 
-## 👀 You can also find me on:
+## 👀 You can also find me on other parts of the web:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Gowtham_PB)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gowtham-pb)
