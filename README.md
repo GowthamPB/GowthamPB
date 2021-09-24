@@ -4,7 +4,7 @@
 <h1>Hello<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45"> my name is Gowtham P B</h1>
+         width="45" margin-top="10"> my name is Gowtham P B</h1>
 
 <div></div><div><img src="https://www.bing.com/th/id/OGC.3ccff8c4b2443d93811eac9b2fd56f11?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fzjMzwz24dr368%2fgiphy.gif&ehk=PTTrBX3t6IJUwwSv2s4KJfji%2ff3a4Qrtmxyh3O7oxkY%3d" width="400px"></div>
 
