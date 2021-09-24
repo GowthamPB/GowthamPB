@@ -17,7 +17,7 @@ I love building cool stuff for the internet. So always on the look out for new p
 
 ## 📊 My GitHub Stats
 
- ![](https://komarev.com/ghpvc/?username=GowthamPB&color=orange)
+ ![](https://komarev.com/ghpvc/?username=GowthamPB&color=blue)
  
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
 
