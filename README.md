@@ -24,10 +24,9 @@ I love building cool stuff for the internet. So always on the look out for new p
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-## 📝 My blog Posts
+## 📝 Latest blog Posts
 
-Blogs coming sooooooon :)
-
+<a href="https://medium.com/@gowthampb2001/how-to-be-productive-or-at-least-try-to-be-productive-xd-6ac91f004e9e">How to be productive(Or atleast try to be productive)</a>
 ## 👀 You can also find me on 
 
 <a href="https://twitter.com/Gowtham_PB" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="GowthamPB-Twitter" /></a>
