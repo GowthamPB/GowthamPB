@@ -11,7 +11,7 @@
 <p>
 I am an Information science undergraduate at <a href="https://sahyadri.edu.in/">Sahyadri college of engineering and management</a>. I am a web developer. I am also a member of open source communities like <a href="https://sosc.org.in">Sahyadri Open-source Community</a> and <a href="https://www.eddiehub.org/?r_done=1">EddieHub</a>.
 
-I love building cool stuff for the internet. So always on the look out for new project ideas.I am passionate about tech,astronomy and finance as well :)
+I love building cool stuff for the web. So always on the look out for new project ideas.I am passionate about tech,astronomy and finance as well :)
 </p>
 
 
@@ -31,4 +31,5 @@ I love building cool stuff for the internet. So always on the look out for new p
 
 <a href="https://twitter.com/Gowtham_PB" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="GowthamPB-Twitter" /></a>
 <a href="https://www.linkedin.com/in/gowtham-pb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GowthamPB-Linkedin" /></a>
+<a href="https://leetcode.com/L_Lawlett/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="GowthamPB-Leetcode" /></a>
 
