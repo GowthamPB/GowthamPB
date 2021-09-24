@@ -30,11 +30,9 @@ Blogs coming sooooooon :)
 
 ## 👀 You can also find me on 
 
-<p align="left"> <a href="https://twitter.com/Gowtham_PB" target="blank"><img src="https://img.shields.io/twitter/follow/Gowtham_PB?logo=twitter&style=for-the-badge" alt="GowthamPB-Twitter" /></a> </p>
+<p> <a href="https://twitter.com/Gowtham_PB" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="GowthamPB-Twitter" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/gowtham-pb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GowthamPB-Linkedin" /></a> </p>
+<p> <a href="https://www.linkedin.com/in/gowtham-pb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GowthamPB-Linkedin" /></a> </p>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Gowtham_PB)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gowtham-pb)
 
 
