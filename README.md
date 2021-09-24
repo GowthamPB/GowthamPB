@@ -15,7 +15,6 @@ I love building cool stuff for the internet. So always on the look out for new p
 </p>
 
 
-
 ## 📊 My GitHub Stats
 
  ![](https://komarev.com/ghpvc/?username=GowthamPB&color=orange)
@@ -31,6 +30,7 @@ I love building cool stuff for the internet. So always on the look out for new p
 ## 👀 You can also find me on 
 
 <a href="https://twitter.com/Gowtham_PB" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="GowthamPB-Twitter" /></a>
+
 <a href="https://www.linkedin.com/in/gowtham-pb" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GowthamPB-Linkedin" /></a>
 
 
