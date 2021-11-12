@@ -15,15 +15,13 @@ I love building cool stuff for the web. So always on the look out for new projec
 </p>
 
 
-## 📊 My Stats
+## 📊 My Github Stats
 
  ![](https://komarev.com/ghpvc/?username=GowthamPB&color=blue)
  
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![Gowtham's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=L_Lawlett&theme=midnight)](https://github.com/KnlnKS/leetcode-stats)
 
 
 ## 📝 My latest blog posts
