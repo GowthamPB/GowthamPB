@@ -23,6 +23,10 @@ I love building cool stuff for the web. So always on the look out for new projec
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+
+[![Gowtham's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+
 ## 📝 My latest blog posts
 
 [1.How to be productive(Or atleast try to be productive)](https://medium.com/@gowthampb2001/how-to-be-productive-or-at-least-try-to-be-productive-xd-6ac91f004e9e)
