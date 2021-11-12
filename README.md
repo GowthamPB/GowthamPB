@@ -15,7 +15,7 @@ I love building cool stuff for the web. So always on the look out for new projec
 </p>
 
 
-## 📊 My GitHub Stats
+## 📊 My Stats
 
  ![](https://komarev.com/ghpvc/?username=GowthamPB&color=blue)
  
@@ -23,8 +23,7 @@ I love building cool stuff for the web. So always on the look out for new projec
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
-[![Gowtham's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=L_Lawlett&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Gowtham's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=L_Lawlett&theme=midnight)](https://github.com/KnlnKS/leetcode-stats)
 
 
 ## 📝 My latest blog posts
