@@ -1,18 +1,19 @@
 
 <!--Thank you for looking at my README file:) -->
 
-<h1>Hello<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1>Hello there!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45"> my name is Gowtham P B</h1>
+         width="45"> It's sooo good to have you here :)</h1>
 
-<div></div><div><img src="https://www.bing.com/th/id/OGC.3ccff8c4b2443d93811eac9b2fd56f11?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fzjMzwz24dr368%2fgiphy.gif&ehk=PTTrBX3t6IJUwwSv2s4KJfji%2ff3a4Qrtmxyh3O7oxkY%3d" width="400px"></div>
+<div></div><div><img src="https://pbs.twimg.com/profile_banners/1259333837928062976/1646488380/1500x500" width="100%"></div>
 
-<p>
-I am an Information science undergraduate at <a href="https://sahyadri.edu.in/">Sahyadri college of engineering and management</a>. I am a web developer and content writer. I am also a member of open source communities like <a href="https://sosc.org.in">Sahyadri Open-source Community</a> and <a href="https://www.eddiehub.org/?r_done=1">EddieHub</a>.
 
-I love building cool stuff for the web. So always on the look out for new project ideas.I am passionate about tech,astronomy and finance as well :)
-</p>
+
+<h3>
+My name is Gowtham. I am an engineering undergraduate from India. I like to code, write and design. Feel free to look around :)
+
+</h3>
 
 
 ## 📊 My Github Stats
