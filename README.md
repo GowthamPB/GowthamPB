@@ -11,7 +11,7 @@
 
 
 <h3>
-My name is Gowtham. I am an engineering undergraduate from India. I like to code, write and design. Feel free to look around :)
+My name is Gowtham. I am an engineering undergraduate from India. I like to code, write and occasionally design. Feel free to look around :)
 
 </h3>
 
