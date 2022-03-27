@@ -21,17 +21,18 @@ My name is Gowtham. I am an engineering undergraduate from India. I like to code
  ![](https://komarev.com/ghpvc/?username=GowthamPB&color=blue)
  
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats&hide_border=false)
 
 <h2><img src="https://user-images.githubusercontent.com/69134468/141054365-7d0281dd-5397-45b9-8c26-02a7724d9f05.png" width="20px"> Daily Challenges</h2>
+
 <p>
 <a href="https://github.com/GowthamPB/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=DSA&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false"/></a>
 </p>
 
 <h2><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
 <p>
-     <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Desktop_Virtual_Assistant&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false"  /></a>
-
+     <a href="https://github.com/GowthamPB/Bus-Ticket-Booking"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=Bus-Ticket-Booking&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false"/></a>
 </p>
 
 ## 📝 My latest blog posts
