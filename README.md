@@ -6,7 +6,7 @@
          height="45"
          width="45"> It's sooo good to have you here :)</h1>
 
-<div></div><div><img src="https://pbs.twimg.com/profile_banners/1259333837928062976/1646488380/1500x500" width="100%"></div>
+<div></div><div><img src="https://twitter.com/Gowtham_PB/header_photo" width="100%"></div>
 
 
 
