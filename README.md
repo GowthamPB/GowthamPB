@@ -6,7 +6,7 @@
          height="45"
          width="45"> It's sooo good to have you here :)</h1>
 
-<div></div><div><img src="[https://twitter.com/Gowtham_PB/header_photo](https://github.com/GowthamPB/GowthamPB/blob/main/Black%20Blue%20Geometric%20Tips%20Business%20Linkedin%20Banner%20(2).png?raw=true)" width="100%"></div>
+<div></div><div><img src="Black Blue Geometric Tips Business Linkedin Banner (2).png" width="100%"></div>
 
 
 
