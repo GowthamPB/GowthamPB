@@ -32,10 +32,10 @@ My name is Gowtham. I am an engineering undergraduate from India. I am primarily
 
 <h2><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
 <p>
-     <a href="https://github.com/GowthamPB/Bus-Ticket-Booking"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=Bus-Ticket-Booking&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false"/></a>
+     <a href="https://github.com/GowthamPB/Bus-Ticket-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=Bus-Ticket-Booking&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false"/></a>
 </p>
 <p>
-     <a href="https://github.com/GowthamPB/BusTicketBooking"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=BusTicketBooking&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false"/></a>
+     <a href="https://github.com/GowthamPB/BusTicketBooking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=BusTicketBooking&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false"/></a>
 </p>
 
 ## 📝 My latest blog posts
