@@ -36,7 +36,7 @@ My name is Gowtham. I am an engineering undergraduate from India. I am primarily
 </p>
 
 <p>
-     <a href="https://github.com/GowthamPB/BusTicketBooking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=BusTicketBooking&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false" alt="If you're reading this, then this is a special project which is currenyly private"/></a>
+<!--      <a href="https://github.com/GowthamPB/BusTicketBooking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=BusTicketBooking&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false" alt="If you're reading this, then this is a special project which is currenyly private"/></a> -->
 </p>
 
 ## 📝 My latest blog posts
