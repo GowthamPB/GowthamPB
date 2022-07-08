@@ -19,25 +19,33 @@ My name is Gowtham. I am an engineering undergraduate from India. I am primarily
 ## 📊 My Github Stats
 
  ![](https://komarev.com/ghpvc/?username=GowthamPB&color=blue)
+ <span align="center">
  
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=vision-friendly-dark)
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamPB&show_icons=true&theme=github_dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=github-dark-blue&showicons=true)](https://github.com/DenverCoder1/github-readme-streak-stats&hide_border=false)
+</span>
 
-<!-- <h2><img src="https://user-images.githubusercontent.com/69134468/141054365-7d0281dd-5397-45b9-8c26-02a7724d9f05.png" width="20px"> Daily Challenges</h2>
+  <div>
+    <a href="#"><img alt="Gowtham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamPB&langs_count=10&layout=compact&theme=github_dark&hide_border=false" height="200"/></a>
+    <div><i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i></div>
+  </div>
+
+<h2><img src="https://user-images.githubusercontent.com/69134468/141054365-7d0281dd-5397-45b9-8c26-02a7724d9f05.png" width="20px"> Daily Challenges</h2>
 
 <p>
-<a href="https://github.com/GowthamPB/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=DSA&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false"/></a>
-</p> -->
+<a href="https://github.com/GowthamPB/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=DSA&show_icons=true&theme=github_dark&cache_seconds=30&hide_border=false"/></a>
+</p> 
 
 <h2><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
 <p>
-     <a href="https://github.com/GowthamPB/Bus-Ticket-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=Bus-Ticket-Booking&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false"/></a>
+     <a href="https://github.com/GowthamPB/Bus-Ticket-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=Bus-Ticket-Booking&show_icons=true&theme=github_dark&cache_seconds=30&hide_border=false"/></a>
 </p>
 
 <p>
-<!--      <a href="https://github.com/GowthamPB/BusTicketBooking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=BusTicketBooking&show_icons=true&theme=vision-friendly-dark&cache_seconds=30&hide_border=false" alt="If you're reading this, then this is a special project which is currenyly private"/></a> -->
+<!--      <a href="https://github.com/GowthamPB/BusTicketBooking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=BusTicketBooking&show_icons=true&theme=github_dark&cache_seconds=30&hide_border=false" alt="If you're reading this, then this is a special project which is currenyly private"/></a> -->
 </p>
+
 
 ## 📝 My latest blog posts
 
