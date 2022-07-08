@@ -28,7 +28,6 @@ My name is Gowtham. I am an engineering undergraduate from India. I am primarily
 
   <div>
     <a href="#"><img alt="Gowtham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamPB&langs_count=10&layout=compact&theme=github_dark&hide_border=false" height="200"/></a>
-    <div><i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i></div>
   </div>
 
 <h2><img src="https://user-images.githubusercontent.com/69134468/141054365-7d0281dd-5397-45b9-8c26-02a7724d9f05.png" width="20px"> Daily Challenges</h2>
