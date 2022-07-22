@@ -26,7 +26,7 @@ My name is Gowtham. I am an engineering undergraduate from India. I am primarily
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamPB&theme=github-dark-blue&showicons=true)](https://github.com/DenverCoder1/github-readme-streak-stats&hide_border=false)
 </span>
 
-  <div>
+ <!--<div>
     <a href="#"><img alt="Gowtham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamPB&langs_count=10&layout=compact&theme=github_dark&hide_border=false" height="200"/></a>
   </div>
 
@@ -39,7 +39,7 @@ My name is Gowtham. I am an engineering undergraduate from India. I am primarily
 <h2><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
 <p>
      <a href="https://github.com/GowthamPB/Bus-Ticket-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=Bus-Ticket-Booking&show_icons=true&theme=github_dark&cache_seconds=30&hide_border=false"/></a>
-</p>
+</p>-->
 
 <p>
 <!--      <a href="https://github.com/GowthamPB/BusTicketBooking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GowthamPB&repo=BusTicketBooking&show_icons=true&theme=github_dark&cache_seconds=30&hide_border=false" alt="If you're reading this, then this is a special project which is currenyly private"/></a> -->
