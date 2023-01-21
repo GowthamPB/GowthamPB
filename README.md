@@ -4,7 +4,7 @@
 <h1>Hello there!!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45"> It's sooo good to have you here :)</h1>
+         width="45"></h1>
 
 <div></div><div><img src="Black Blue Geometric Tips Business Linkedin Banner (2).png" width="100%"></div>
 
