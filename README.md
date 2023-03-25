@@ -11,7 +11,7 @@
 
 
 <h3>
-My name is Gowtham. I am an engineering undergraduate from India. I am primarily a web developer and content writer. But I also do android development and graphic design on the side. Feel free to look around :)
+My name is Gowtham. I am an engineering undergraduate from India. I do lots of cool stuff. So feel free to look around :)
 
 </h3>
 
