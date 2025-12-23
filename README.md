@@ -11,7 +11,7 @@
 
 
 <h3>
-My name is Gowtham. I do lots of cool stuff. So feel free to look around :)
+My name is Gowtham. I do lot of cool stuff. So feel free to look around :)
 
 </h3>
 
